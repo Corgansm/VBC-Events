@@ -1,28 +1,5 @@
 [
     {
-        "title": "Goodbye Dolly Pub Crawl",
-        "date": "September 5, 2026",
-        "time": "5:00 pm",
-        "venue": "Von Braun Center",
-        "impact_timeline": {
-            "arrival_rush": {
-                "window": "03:30 PM - 05:00 PM",
-                "impact": 0
-            },
-            "during_event": {
-                "window": "05:00 PM - 07:00 PM",
-                "impact": 1
-            },
-            "departure_rush": {
-                "window": "07:00 PM - 08:00 PM",
-                "impact": 1
-            }
-        },
-        "url": "https://www.vonbrauncenter.com/events/goodbye-dolly-pub-crawl/",
-        "image": "https://www.vonbrauncenter.com/wp-content/uploads/2026/09/Dolly-2-1-1024x576.png",
-        "source": "VBC"
-    },
-    {
         "title": "All The Kings Men",
         "date": "September 6, 2026",
         "time": "6:00 pm",
